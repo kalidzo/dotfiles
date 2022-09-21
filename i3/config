@@ -207,7 +207,7 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 
 # Set wallpaper
-exec --no-startup-id feh --randomize --bg-scale ~/.wallpaper/*
+exec --no-startup-id feh --randomize --bg-scale ~/wallpaper/*
 
 exec --no-startup-id picom -b
 
