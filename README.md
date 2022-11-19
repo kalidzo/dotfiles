@@ -19,7 +19,7 @@
 - [Fish](https://github.com/fish-shell/fish-shell) - Shell
 - [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
 - [Tide](https://github.com/IlanCosman/tide)- Shell theme. Use version 5 - `fisher install ilancosman/tide@v5`
-- [z](https://github.com/jethrokuan/z) - Directory jumper
+- [z](https://github.com/jethrokuan/z) - Directory jumper - `fisher install jethrokuan/z`
 - [Exa](https://the.exa.website/) - replacement for `ls`
 - [Flameshot](https://archlinux.org/packages/community/x86_64/flameshot/) - Screenshot tool
 
