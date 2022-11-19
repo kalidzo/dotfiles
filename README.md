@@ -1,6 +1,6 @@
 # Shahruz's dotfiles
 
-![alt text](https://github.com/kalidzo/dotfiles/blob/main/screen.jpg?raw=true)
+![alt text](https://github.com/kalidzo/dotfiles/blob/main/screen.png?raw=true)
 
 
 
