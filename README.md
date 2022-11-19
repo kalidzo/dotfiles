@@ -25,7 +25,7 @@
 
 ## Fonts
 
-- [PowerlineSymbols](https://archlinux.org/packages/community/x86_64/powerline-fonts/)
+- [Hack](https://archlinux.org/packages/community/x86_64/powerline-fonts/)
 - [Iosevka](https://archlinux.org/packages/community/any/ttf-iosevka-nerd/)
-- [Unifont](https://aur.archlinux.org/packages/ttf-unifont)
+- [JetBrains Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
 
