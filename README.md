@@ -7,6 +7,7 @@
 ## Contents 
 
 - Alacritty config
+- Helix config
 - Fish config
 - i3wm config
 - polybar config
